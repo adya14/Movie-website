@@ -1,0 +1,15 @@
+.tvm-header {
+  width: 100%;
+  height: auto;
+  background: hsl(0, 0%, 100%);
+}
+
+.tvm-header-content {
+  display: flex;
+  justify-content: center;
+  padding: 15px;
+  overflow: hidden;
+}
+
+
+
