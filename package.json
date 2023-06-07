@@ -1,0 +1,22 @@
+{
+  "name": "react_tvmaze_showpage",
+  "Author": "adya14",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-fontawesome": "^1.6.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "description": "![Preview](public/images/result_1.png?raw=true 'Title')\r ## Final Result of shows page \r ![Preview](public/images/result_2.png?raw=true 'Title')",
+  "main": "index.js",
+  "author": "adya14"
+}
