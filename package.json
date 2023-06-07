@@ -15,8 +15,5 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  },
-  "description": "![Preview](public/images/result_1.png?raw=true 'Title')\r ## Final Result of shows page \r ![Preview](public/images/result_2.png?raw=true 'Title')",
-  "main": "index.js",
-  "author": "adya14"
+  }
 }
